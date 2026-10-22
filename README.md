@@ -20,6 +20,3 @@ A compilation of all the work I have done so far on Cadence Virtuoso (SCL PDK 18
 ![CMOS_Inverter_Schematic](CMOS_Inverter/CMOS_Inverter_Schematic.png)
 ![CMOS_Inverter_Testbench](CMOS_Inverter/CMOS_Inverter_Testbench.png)
 
-![NAND_Gate_Graph](NAND_Gate/NAND_Gate_Graph.jpg)
-![NAND_Gate_Schematics](NAND_Gate/NAND_Gate_Schematics.png)
-![NAND_Gate_Testbench](NAND_Gate/NAND_Gate_Testbench.png)
